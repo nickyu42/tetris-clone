@@ -1,1 +1,1 @@
-"# Tetris clone made with pygame" 
+# Tetris clone made with pygame
